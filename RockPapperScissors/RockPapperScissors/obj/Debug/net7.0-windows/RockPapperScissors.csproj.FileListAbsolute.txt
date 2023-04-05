@@ -1,0 +1,17 @@
+C:\Users\furkano\source\repos\C#Course\RockPapperScissors\RockPapperScissors\bin\Debug\net7.0-windows\RockPapperScissors.exe
+C:\Users\furkano\source\repos\C#Course\RockPapperScissors\RockPapperScissors\bin\Debug\net7.0-windows\RockPapperScissors.deps.json
+C:\Users\furkano\source\repos\C#Course\RockPapperScissors\RockPapperScissors\bin\Debug\net7.0-windows\RockPapperScissors.runtimeconfig.json
+C:\Users\furkano\source\repos\C#Course\RockPapperScissors\RockPapperScissors\bin\Debug\net7.0-windows\RockPapperScissors.dll
+C:\Users\furkano\source\repos\C#Course\RockPapperScissors\RockPapperScissors\bin\Debug\net7.0-windows\RockPapperScissors.pdb
+C:\Users\furkano\source\repos\C#Course\RockPapperScissors\RockPapperScissors\obj\Debug\net7.0-windows\RockPapperScissors.csproj.AssemblyReference.cache
+C:\Users\furkano\source\repos\C#Course\RockPapperScissors\RockPapperScissors\obj\Debug\net7.0-windows\RockPapperScissors.Form1.resources
+C:\Users\furkano\source\repos\C#Course\RockPapperScissors\RockPapperScissors\obj\Debug\net7.0-windows\RockPapperScissors.csproj.GenerateResource.cache
+C:\Users\furkano\source\repos\C#Course\RockPapperScissors\RockPapperScissors\obj\Debug\net7.0-windows\RockPapperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkano\source\repos\C#Course\RockPapperScissors\RockPapperScissors\obj\Debug\net7.0-windows\RockPapperScissors.AssemblyInfoInputs.cache
+C:\Users\furkano\source\repos\C#Course\RockPapperScissors\RockPapperScissors\obj\Debug\net7.0-windows\RockPapperScissors.AssemblyInfo.cs
+C:\Users\furkano\source\repos\C#Course\RockPapperScissors\RockPapperScissors\obj\Debug\net7.0-windows\RockPapperScissors.csproj.CoreCompileInputs.cache
+C:\Users\furkano\source\repos\C#Course\RockPapperScissors\RockPapperScissors\obj\Debug\net7.0-windows\RockPapperScissors.dll
+C:\Users\furkano\source\repos\C#Course\RockPapperScissors\RockPapperScissors\obj\Debug\net7.0-windows\refint\RockPapperScissors.dll
+C:\Users\furkano\source\repos\C#Course\RockPapperScissors\RockPapperScissors\obj\Debug\net7.0-windows\RockPapperScissors.pdb
+C:\Users\furkano\source\repos\C#Course\RockPapperScissors\RockPapperScissors\obj\Debug\net7.0-windows\RockPapperScissors.genruntimeconfig.cache
+C:\Users\furkano\source\repos\C#Course\RockPapperScissors\RockPapperScissors\obj\Debug\net7.0-windows\ref\RockPapperScissors.dll
